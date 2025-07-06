@@ -1,0 +1,91 @@
+2025-07-04 13:04:13,540 INFO Logger initialized
+2025-07-04 13:04:59,357 INFO Logger initialized
+2025-07-04 13:04:59,398 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 404 Not Found"
+2025-07-04 13:16:23,042 INFO Logger initialized
+2025-07-04 13:16:42,113 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:18:22,670 INFO Logger initialized
+2025-07-04 13:18:24,065 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:18:28,535 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:18:28,535 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:18:28,535 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:18:32,351 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:18:32,927 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:18:37,437 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:18:39,765 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:18:55,360 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:18:55,892 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:18:55,893 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:18:55,893 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:18:59,705 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:19:01,168 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:19:05,749 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:19:09,466 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:19:24,946 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:19:29,937 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:19:29,938 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:19:29,938 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:19:33,884 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:20:00,459 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:20:05,522 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:20:07,050 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:20:24,390 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:20:25,215 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:20:25,215 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:20:25,215 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:20:29,726 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:20:32,479 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:20:37,837 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:20:40,552 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:20:58,893 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:21:03,631 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:21:03,631 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:21:03,632 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:21:08,415 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:21:09,063 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:21:14,730 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:23:50,151 INFO Logger initialized
+2025-07-04 13:24:07,461 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:24:22,614 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:24:22,615 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:24:22,615 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:24:26,515 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:24:36,520 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:24:41,349 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:24:50,913 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:25:07,918 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:25:18,266 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:25:18,268 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:25:18,268 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:25:23,249 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:25:35,999 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:25:41,713 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:25:53,575 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:26:13,722 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:26:30,900 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:26:30,900 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:26:30,900 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:26:37,050 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:26:52,842 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:27:03,593 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:27:39,334 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:28:11,330 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:28:48,497 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:28:48,498 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:28:48,498 WARNING ⚠️ Skipping item due to missing title or content: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:28:56,007 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:29:05,822 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:29:15,283 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:31:11,448 INFO Logger initialized
+2025-07-04 13:31:33,310 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:31:47,921 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:31:47,922 WARNING ⚠️ Skipping item with missing title: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:31:47,922 WARNING ⚠️ Skipping item with missing title: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:31:53,672 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:32:05,240 INFO ✅ Post generated for: Analytics Insight
+2025-07-04 13:32:13,278 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:32:31,263 INFO ✅ Post generated for: Data Science, Machine Learning, AI & Analytics - KDnuggets
+2025-07-04 13:33:05,103 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-04 13:33:44,686 INFO ✅ Post generated for: AI News | Latest AI News, Analysis & Events
+2025-07-04 13:33:44,686 WARNING ⚠️ Skipping item with missing title: {'url': 'https://www.technologyreview.com/ai/', 'error': "404, message='Not Found', url='https://www.technologyreview.com/ai/'"}
+2025-07-04 13:33:44,687 WARNING ⚠️ Skipping item with missing title: {'url': 'https://aimagazine.com/', 'error': "403, message='Forbidden', url='https://aimagazine.com/'"}
+2025-07-04 13:34:02,676 INFO HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
